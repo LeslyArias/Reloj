@@ -1,0 +1,10 @@
+.p {
+  min-height: 100vh;
+  background-color: #2d3436;
+  color: #f3f3f3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 35px;
+}
